@@ -1,0 +1,14 @@
+C:\Users\31792773862\source\repos\POOFundamentos\bin\Debug\net10.0\POOFundamentos.exe
+C:\Users\31792773862\source\repos\POOFundamentos\bin\Debug\net10.0\POOFundamentos.deps.json
+C:\Users\31792773862\source\repos\POOFundamentos\bin\Debug\net10.0\POOFundamentos.runtimeconfig.json
+C:\Users\31792773862\source\repos\POOFundamentos\bin\Debug\net10.0\POOFundamentos.dll
+C:\Users\31792773862\source\repos\POOFundamentos\bin\Debug\net10.0\POOFundamentos.pdb
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.AssemblyInfoInputs.cache
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.AssemblyInfo.cs
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.dll
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\refint\POOFundamentos.dll
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.pdb
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\POOFundamentos.genruntimeconfig.cache
+C:\Users\31792773862\source\repos\POOFundamentos\obj\Debug\net10.0\ref\POOFundamentos.dll

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../AtividadesPOO/AtividadesPOO.csproj" Id="6ee3613b-448e-4ca1-9db1-1c6a5c46359d" />
+  <Project Path="../ExercicioPOO/ExercicioPOO.csproj" Id="5bb78bf3-5d15-4923-b20d-0361ef710a75" />
+  <Project Path="POOFundamentos.csproj" />
+</Solution>
